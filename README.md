@@ -18,6 +18,6 @@ Experienced Data Engineer specializing in building enterprise-scale ETL pipeline
 ### 📌 Quick Links
 * 🌐 **Portfolio Website:** [sairam-yellanki.netlify.app](https://grand-starburst-22b42c.netlify.app)
 * 💼 **Professional Profile:** [LinkedIn](https://www.linkedin.com/in/sairam-yellanki)
-* 📂 **Detailed Case Studies:** [Data Engineering Portfolio Repository](https://github.com/your-username/data-engineering-portfolio) *(Update with your repo link)*
+* 📂 **Detailed Case Studies:** [Data Engineering Portfolio Repository](https://github.com/sairamyellanki/data-engineering-portfolio)
 
 ---
