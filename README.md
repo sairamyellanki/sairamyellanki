@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yellanki Sairam
 
-### 🚀 Data Engineer | BFSI & Regulatory Reporting Specialist
+### 🚀 Data Engineer | BFS & Regulatory Reporting Specialist
 Based in **Karimnagar, Telangana / Mumbai, India**  
 Experienced Data Engineer specializing in building enterprise-scale ETL pipelines, migrating legacy systems to **PySpark / Apache Spark**, optimizing complex **Oracle SQL** workloads, and automating regulatory reporting frameworks for top-tier financial institutions (**HDFC Bank**).
 
